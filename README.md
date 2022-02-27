@@ -16,7 +16,7 @@
     <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/>
     <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React">
     <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript">
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/ribeiro-carlos/ribeiro-carlos/blob/main/1645985631900.jpg">
+    <img align="right" alt="Carlos-pic" height="150" style="border-radius:50px;" src="https://github.com/ribeiro-carlos/ribeiro-carlos/blob/main/1645987548999.jpg">
   </div><br>
   
 ## Ferramentas
