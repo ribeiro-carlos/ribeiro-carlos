@@ -1,6 +1,6 @@
 ### Olá! Meu nome Carlos Ribeiro, seja bem vindo ao meu Github.
 - 🌱 Estudando e aprimorando meus conhecimentos em tecnologias front end
-- 🎓 Cursando Informática para Negócios na FATEC SBC
+
 
 <div align="center">
   <a href="https://github.com/ribeiro-carlos">
