@@ -1,12 +1,12 @@
 ### Olá! Meu nome Carlos Ribeiro, seja bem vindo ao meu Github.
 - 🌱 Estudando e aprimorando meus conhecimentos em tecnologias front end
 
-
+<!-- 
 <div align="center">
   <a href="https://github.com/ribeiro-carlos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribeiro-carlos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiro-carlos&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> -->
   
 ## Skills
   <div style="display: inline_block"><br>
