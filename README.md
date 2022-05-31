@@ -1,5 +1,9 @@
-### Olá! Meu nome Carlos Ribeiro, seja bem vindo ao meu Github.
-- 🌱 Estudando e aprimorando meus conhecimentos em tecnologias front end
+### Olá! Meu nome é Carlos Ribeiro, seja bem vindo ao meu Github.
+- 🌱 Estudando e aprimorando meus conhecimentos em tecnologias front end, HTML, CSS, Javascript, Bootstrap, TypeScript, React.
+- 📫 Como me encontrar? dev.carlos.ribeiro94@gmail.com
+- :computer: Conheça meus Projetos no meu <a href="https://carlosribeiro.netlify.app">Portfólio</a>
+- :mortar_board: Cursando Sistemas para Internet - Uniamérica Descomplica.
+
 
 <div align="center">
   <a href="https://github.com/ribeiro-carlos">
